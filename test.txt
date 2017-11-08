@@ -1,7 +1,7 @@
 <html>
 
 	<head>
-	<title>Reading from text files</title>
+	<title>Reading from text files al in one</title>
 	</head>
 	<body>
 
